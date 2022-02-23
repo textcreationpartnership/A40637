@@ -1,0 +1,235 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Gamaliel Palipsuchos, or, Seasonable advice in trying times delivered in a sermon preached at Little-Wakering in Essex, Wednesday the 22th of December, being the fast appointed for the farther discovery of the popish-plot, by John Fuller.</title>
+            <author>Fuller, John, b. 1640 or 41.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1681</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 26 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A40637</idno>
+            <idno type="STC">Wing F2393</idno>
+            <idno type="STC">ESTC R35508</idno>
+            <idno type="EEBO-CITATION">15347639</idno>
+            <idno type="OCLC">ocm 15347639</idno>
+            <idno type="VID">103462</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A40637)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 103462)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1188:40)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Gamaliel Palipsuchos, or, Seasonable advice in trying times delivered in a sermon preached at Little-Wakering in Essex, Wednesday the 22th of December, being the fast appointed for the farther discovery of the popish-plot, by John Fuller.</title>
+                  <author>Fuller, John, b. 1640 or 41.</author>
+               </titleStmt>
+               <extent>16 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for the authour by John Gain ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1681.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>First 2 words of title in Greek characters.</note>
+                  <note>Errors in paging: p. 3 misprinted 13; p. 6-7 misprinted 12, 16.</note>
+                  <note>Reproduction of original in the Union Theological Seminary Library, New York.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Fast-day sermons.</term>
+               <term>Popish Plot, 1678.</term>
+               <term>Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-09</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2010-09</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:103462:1"/>
+            <pb facs="tcp:103462:1" rendition="simple:additions"/>
+            <p>Γαμαλιὴλ Παλίψνχοσ OR <hi>Seaſonable Advice</hi> IN Trying Times: DELIVERED In a Sermon Preached at <hi>Little-Wa<g ref="char:EOLhyphen"/>kering</hi> in <hi>Eſſex, Wedneſday</hi> the 22<hi rend="sup">th.</hi> of <hi>December,</hi> Being the Faſt appoint<g ref="char:EOLhyphen"/>ed for the farther diſcovery of the <hi>Popiſh-PLOT.</hi>
+            </p>
+            <p>
+               <hi>By JOHN F<g ref="char:V">Ʋ</g>LLER M. A.</hi>
+            </p>
+            <q>Diſcite Juſtitiam moniti, nec temnite Divos.</q>
+            <p>
+               <hi>LONDON,</hi> Printed for the Author, By <hi>John Gain,</hi> Living in <hi>Merchant-Taylers Rents,</hi> at the Lower End of <hi>Moor-Lane,</hi> 1681.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:103462:2"/>
+            <pb n="13" facs="tcp:103462:2"/>
+            <head>TO HIS <hi>Deſervedly Honoured Friend,</hi> GEORGE ASSER, of BARLING in ESSEX, Gentleman.</head>
+            <opener>
+               <salute>Dear Sir,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">S</seg>Ome Men admire what <hi>Jacob</hi> meant by ſo ſmall a Preſent to ſo great a Perſon as <hi>Jo<g ref="char:EOLhyphen"/>ſeph</hi> was then in <hi>Ae<g ref="char:EOLhyphen"/>gypt, a little Balm and a little Honey, Nuts and Almonds,</hi> &amp;c. But the Text clears all, <hi>Gen. 43.11.</hi> They were the <hi>Beſt</hi> Fruits of the Land. I ſhall like<g ref="char:EOLhyphen"/>wiſe be condemned for making ſo mean a Re<g ref="char:EOLhyphen"/>turn to ſo mighty Obligations I lye under; My Excuſe is, It is the beſt my preſent Con<g ref="char:EOLhyphen"/>dition
+<pb n="4" facs="tcp:103462:3"/>is capable of. Here I freely confeſs, it was not the Importunity of any, wreſted this ſmall Treatiſe from me; Nor was it an Itch to be in Print. I underſtand well enough the Humors of a Cenſorious Age, that every Innocent Diſcourſe muſt run the Gantelope therein, and receive a Laſh from all Diſſent<g ref="char:EOLhyphen"/>ing Parties: But I hoped it might do good to ſome, for whom I ought to have a Real kindneſs: However, hereby I ſhall take oc<g ref="char:EOLhyphen"/>caſion to declare to the World my reſentment of your great Civilities. And he that hath an Hand to receive, and not a Tongue to re<g ref="char:EOLhyphen"/>turn Thanks, deſerves for the future to be both Lame and Dumb; which Puniſhment, that it may not light on me, Accept this ac<g ref="char:EOLhyphen"/>knowledgment of your many Favours beſtow<g ref="char:EOLhyphen"/>ed on,</p>
+            <closer>
+               <signed>Your devoted Friend &amp; Servant, <hi>JOHN FULLER.</hi>
+               </signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb n="5" facs="tcp:103462:3"/>
+            <epigraph>
+               <bibl>
+                  <hi>ACTS 5. V. 38.</hi>
+               </bibl>
+               <q>For if this Councel, or this Work be of Men, it will come to nought.</q>
+            </epigraph>
+            <p>
+               <seg rend="decorInit">I</seg>N this Chapter we have the Speech of a learned <hi>Jew,</hi> his Name <hi>Gama<g ref="char:EOLhyphen"/>liel,</hi> his Profeſſion a <hi>Phariſee,</hi> his Degree a Doctor of Law, his Dig<g ref="char:EOLhyphen"/>nity had in Reputation amongſt all the People. We have him pleading freely without a Fee for poor Cly<g ref="char:EOLhyphen"/>ents, the perſecuted Diſciples. The Drift and Purport of his Speech is to perſwade that the Di<g ref="char:EOLhyphen"/>ſciples might not be ſo ſuddenly and ſeverely proceeded againſt, but for a time reſpited and reprieved, to ſee what would become of their perſons and Preaching. This he enforceth by a double Inſtance of <hi>Theudas</hi> and <hi>Judas,</hi> two famous Impoſtors, who in former times, like rowling Snow<g ref="char:EOLhyphen"/>balls, had gathered much People together; but melting at laſt, brought both themſelves and Followers to confuſion. Hence he rationally inferreth, That if this Doctrine of the Diſciples were only of humane invention, it would ſink of it ſelf, and ſave them the pains to oppoſe it; if it were of Men it were needleſs, if of God, impoſſible to re<g ref="char:EOLhyphen"/>ſiſt it.</p>
+            <p>Oh! It is excellent to be familiarly acquainted with the memorable Accidents of former Ages. You that deſire to be wiſe, keep a Court of Records in your own Boſoms:
+<pb n="12" facs="tcp:103462:4"/>file up all remarkable Paſſages in your Breaſts, that remem<g ref="char:EOLhyphen"/>bring things paſt, and comparing them with things pre<g ref="char:EOLhyphen"/>ſent, you may probably conjecture of things to come. Then ſhall the Deſtructions of others prove Inſtructions to you: the Shipwracks of others ſhall be Sea-marks to you, and the purchaſe of Wit, which others have dearly bought with their Wo, you ſhall both get <hi>gratis</hi> and peaceably poſſeſs. For thus <hi>Gamaliel</hi> by quoting of former Preſi<g ref="char:EOLhyphen"/>dents, and obſerving ancient Accidents in <hi>Theudas</hi> and <hi>Ju<g ref="char:EOLhyphen"/>das,</hi> doth judicially collect, and difinitively conclude, That all wicked projects, though like Comets they blaze for a ſeaſon, will fade of themſelves. <hi>For if this Councel, or this Work be of Men,</hi> &amp;c.
+<list>
+                  <label>Obſerve in the Text</label>
+                  <item>
+                     <list>
+                        <item>1. a Suppoſition. <hi>If this Councel or Work be of Men,</hi>
+                        </item>
+                        <item>2. a Poſition. <hi>It will come to nought.</hi>
+                        </item>
+                     </list>
+                  </item>
+               </list>
+            </p>
+            <p>But before we go further, methinks I hear ſome hacking and hewing at the Root of my Text with this ſharp <hi>Objection.</hi>
+            </p>
+            <p>Objection. I.</p>
+            <p>Why <hi>(may ſome ſay)</hi> What was <hi>Gamaliel</hi> to us? are we bund to believe him, or does his Advices and Inſtructions con<g ref="char:EOLhyphen"/>cern and conclude us? <hi>Gamaliel</hi> at the beſt, he was but a learn<g ref="char:EOLhyphen"/>ed <hi>Jew,</hi> having but a twilight of Knowledg, and if we caſt up the total Sum of his Religion, it can amount to no more than <hi>Agrippa</hi>'s half a <hi>Chriſtian.</hi> Beſides, by Profeſſion, he was a <hi>Phariſee,</hi> and this may juſtly render his Councel ſuſpected. What <hi>Chriſtian</hi> had not rather faſt, than feed on the Bread of the <hi>Phariſees,</hi> for ſear ſome of their Leaven ſhould be in it? We therefore are not bound to hear what is ſpoken, or to believe what we hear from the mouth of <hi>Gamaliel.</hi>
+            </p>
+            <p>
+               <pb n="16" facs="tcp:103462:4"/>
+               <hi>Anſwer.</hi>
+            </p>
+            <p>I anſwer, if the Doctrine of <hi>Gamaliel</hi> did any way bor<g ref="char:EOLhyphen"/>der, entrench, or confine on <hi>Phariſaical</hi> Principles, we might juſtly be jealous thereof: But ſeeing no ſuch mat<g ref="char:EOLhyphen"/>ter, let us not refuſe to receive a precious Pearl, though from the hand of the blackeſt Negro. Yea, let none think ſcorn to be taught by <hi>Gamaliel's</hi> mouth, at whoſe Feet St. <hi>Paul</hi> was brought up: and if any will not believe my Text for <hi>Gamaliel</hi>'s, let them believe it for God's Sake. The <hi>Lacedemonians</hi> had a Law, that if a wicked man in the Senate chanced to give good Counſel, he was preſently to ſtand by, and a good Senator was to riſe up and ſpeak the ſame words, that ſo the Counſel might be the better re<g ref="char:EOLhyphen"/>liſhed, coming from a grateful Perſon. Grant <hi>Gamaliel</hi> to be as bad a man as Malice can ſuppoſe him, yet ſeeing Gods Spirit hath been pleaſed to record his Speech, with which Reaſon and Religion do concur, take it now as coming from God, and hearken to him, that he may hearken to you.</p>
+            <p>Objection II.</p>
+            <p>
+               <hi>But it may be further objected,</hi> That he that reads the juſtneſs of a Cauſe, by the joyfulneſs of the Event, holds the wrong end of the Book upwards. <hi>Careat Succeſſibus opto, quiſquis ab e<g ref="char:EOLhyphen"/>ventu facta notanda putat.</hi> Have we not often ſeen Piety and Proſperity at ſuch terms of diſtance, that they could not har<g ref="char:EOLhyphen"/>bour under the ſame Roof. <hi>Diſce puer virtutem ex me ve<g ref="char:EOLhyphen"/>rumque laborem, fortunam ex aliis.</hi> Wherefore this Do<g ref="char:EOLhyphen"/>ctrine, to meaſure the goodneſs of a Cauſe by the Succeſs, is often falfe, always uncertain, at the beſt but dangerous, good only to
+<pb n="8" facs="tcp:103462:5"/>puff up the hearts of proſperous Sinners with pride, and to break the Souls of ſorrowfull Saints with drooping diſpair.</p>
+            <p>
+               <hi>Solution.</hi>
+            </p>
+            <p>We muſt ſpend ſome time in clearing the Text from the Ambuſhment of this Objection, for the better effecting whereof we will lay down theſe three Propoſitions.</p>
+            <p>
+               <hi>Prop.</hi> 1. Wicked men may, and often do thrive in their wicked Deſigns for a time. Hereof the reaſon in nature is this, becauſe, though they bring a bad Cauſe, they are the beſt Sollicitors, ſparing neither care nor coſt, nor price nor pains to accompliſh their wicked deſires. Their cract Title they will ſodder up with their own Induſtry: and to their lame Cauſe which lacks Legs, they will give Wings by their dayly diligence. They watch for all tides, and wait for all times, and work by all meanes, and ſail by all winds; each golden opportunity they cunning<g ref="char:EOLhyphen"/>ly court, and greedily catch, and carefully keep, and thrifty<g ref="char:EOLhyphen"/>ly uſe: In a word, <hi>they are wiſer in their generation than the Children of Light,</hi> Luk. 16.8. And the reaſon in Religi<g ref="char:EOLhyphen"/>on why wicked men often proſper in bad projects, is, becauſe God in his Juſtice ſuffers them to battle therein, that they may be the fatter Sacrifice for his divine vengeance, lifting them up to caſt them down, ſwelling ſo great with their good ſucceſs, they break with the Tympany of their own pride and preſumption.</p>
+            <p>
+               <hi>Prop.</hi> 2. Gods Servants in good deſigns have ſometimes for a time been unſucceſsful, witneſs the <hi>Iſraelites,</hi> Judges 20.21. Who asking Councel of God, and going to War by his Command, were notwithſtanding twice grievouſly beaten by the <hi>Benjamttes.</hi> And the true reaſon hereof is this, becauſe, though the Cauſe may be good, yet the beſt
+<pb n="9" facs="tcp:103462:5"/>of men who ſeek to advance that Cauſe are ſinful, and God juſtly may, and often doth puniſh their Sins with ill ſucceſs. Beſides, hereby he doth try and prove the patience of his Servants, whether under hope, above hope, they will rely on his protection in the midſt of all extremities.</p>
+            <p>
+               <hi>Prop.</hi> 3. Though ſlowly, yet ſurely, though late, yet at laſt good deſigns ſhall be bleſt, and bad deſigns finally confound<g ref="char:EOLhyphen"/>ed. The true reaſon hereof is founded in Gods juſtice, to whom it is eſſential to reward piety, and puniſh profanneſs. So then though bad deſigns may bait at ſucceſs, they ſhall lodge at conſuſion. But if any man ask me when this ſhall be done, I anſwer with our Saviour to his Diſciples, <hi>Acts</hi> 1.7. <hi>It is not for you to know the times or ſeaſons which the Father hath put in his own power.</hi> And you may obſerve <hi>Gamaliels</hi> words in my Text to be without date, <hi>ſhall come to nought,</hi> without ſpecifying or noting any ſet time. Let this ſerve to give to the ſober ſatisfaction, and to the curious a ſurfeit, though not without ſome waiting, yet without any failing, wicked projects ſhall periſh: but how long it ſhall be before they periſh, I cannot tell you, becauſe my Text hath not told me; that it ſhall be, we know, when it ſhall be, God knows, <hi>For if this Counſel or this work be of Men, it will,</hi> &amp;c.</p>
+            <p>
+               <hi>Doctrine.</hi> The ſtaple Doctrine is this, <hi>What is nought in the beginning, will be certainly nought in the end.</hi> And it is worth our obſerving the variety of ways whereby the Plots of wicked men come to confuſion: ſometimes out of ficle<g ref="char:EOLhyphen"/>neſs and inconſtancy they deſert their own deſigns, or elſe out of deſpair to ſucceed, they deſiſt from their intentions. Sometimes they ſtart ſo many Plots at once, that they hunt none at all: but the plenty of their projects ſupplant and confound one another. Sometimes the means that they relie on fails, and then down tumbles the ſtately ſtructure of their deſigns, burying the Builders under the ruines
+<pb n="10" facs="tcp:103462:6"/>thereof. Sometimes the principal Plotter is cut off, and then he loſing his head, the reſt loſe their hearts, and are ut<g ref="char:EOLhyphen"/>terly diſcomfited: as in the Rebellion of <hi>Sheba.</hi> Sometimes a cauſeleſs qualm of Cowardize comes over their Soul (as over the <hi>Aramites</hi> Army, 2 <hi>Kings</hi> 7.7.) fancying Fears to themſelves, and then fearing their own Fancies, they fly when none purſues, and are afraid to overtake themſelves. Sometimes they are ſplit on Rocks by the tempeſt of their own fury, graſp all and hold nothing, and run themſelves out of breath with their own violence. Sometimes they fall out among themſelves, crumbling into Fration and Factions, and to ſave others the pains, ſheath their Swords in themſelves, as the <hi>Moabites, Ammonites,</hi> and <hi>Edomites</hi> did, 2 <hi>Chron.</hi> 20.23. Sometimes they come to deſtruction, be<g ref="char:EOLhyphen"/>cauſe they come to deſtruction: no viſible reaſon can be rendred thereof, we ſee it done, but cannot ſee who doth it. Sometimes God puts his hand miraculouſly out of Heaven, and with the leaſt joynt of his little finger; cruſheth theſe moths to nothing, as in 88, and the Powder-Treaſon.</p>
+            <p>And as by ſundry ways, ſo alſo at ſeveral times, evil Counſels are confounded, ſome ſooner, ſome later, as it plea<g ref="char:EOLhyphen"/>ſeth Divine Providence. As the dainty Dames of <hi>Iſrael</hi> were threatned to eat their own Children when but a ſpan long, ſo ſome are forced to eat not only their own words, but their own deeds when ſcarce begun, their wicked deſigns ſetting in the riſing, and being damb'd up in the Fountain. Others come to the birth, but then there is no ſtrength to bring forth, or elſe, they are ſtill born without life or moti<g ref="char:EOLhyphen"/>on, ſo that a Coffin is the firſt Cradle they are put into. Such as ſurvive the birth, are with the babes of <hi>Bethlehem</hi> made away at two years old and under. And if the wick<g ref="char:EOLhyphen"/>ed Project chance to be of ſo ſtrong a conſtitution, as that paſſing through Childhood and Youth, it comes to mans E<g ref="char:EOLhyphen"/>ſtate,
+<pb n="11" facs="tcp:103462:6"/>then the Plague denounced againſt the houſe of <hi>Eli,</hi> falls upon it, 1 <hi>Sam.</hi> 2.32. <hi>There ſhall not be an old man in the houſe for ever.</hi> It ſhall never hold out to grey hairs. For if this <hi>Counſel or this work be of men, it ſhall come to nought.</hi>
+            </p>
+            <p>Objection.</p>
+            <p>Yea, <hi>(may ſome ſay)</hi> ſome wicked deſigns have arrived at a wondrous age. What ſay you of the Opinions of Popery? veri<g ref="char:EOLhyphen"/>ly I ſay unto you that <hi>Methuſelah</hi> with all his years was not ſo old as ſome of them, twelve hundred years and upwards many of them have laſted. And at this very day the maintainers thereof flouriſh in all proſperity. Begin at <hi>Spain,</hi> then go by <hi>France,</hi> paſs over <hi>Germany,</hi> compaſs <hi>Poland,</hi> return through <hi>Hungary,</hi> and end at <hi>Italy,</hi> and you ſhall find ſcores of Countreys, hundred of Ci<g ref="char:EOLhyphen"/>ties, thouſands of Towns, millions of men, all zealous of the Po<g ref="char:EOLhyphen"/>piſh Profeſſion. Seeing therefore that Popery hath ſprouted ſo ſoon, ſpread ſo faſt, and ſo far, laſts ſo long, ſtands ſo ſtrong, either allow Popery true, or confeſs the Text falſe, <hi>For if their Counſel or work had been of men, it would ere this time have been brought to nought.</hi>
+            </p>
+            <p>
+               <hi>Anſwer.</hi>
+            </p>
+            <p>When I look on the corrupted lungs of the <hi>Romiſh</hi> Reli<g ref="char:EOLhyphen"/>gion, I conclude it muſt needs have dyed in its Childhood, had not God foretold there ſhould be a man of Sin, 2 <hi>Theſ.</hi> 2.23.</p>
+            <p>I anſwer then that all theſe things are (have) come to paſs according to what God in Scripture hath foretold unto us, the early riſing of Antichriſt, whoſe myſtery of Iniqui<g ref="char:EOLhyphen"/>ty wrought in the Apoſtles time, his coming with Power, and Signs, and lying Wonders, his bewitching the Nations
+<pb n="12" facs="tcp:103462:7"/>with the Cup of Fornication, his fighting with the Saints and prevailing againſt them, are all punctually propheſyed of in the Bible: as alſo the general declination of the Church from piety in Doctrine, and purity in Manner, the flying of the woman into the Wilderneſs: the ſafe, but ſecret keep<g ref="char:EOLhyphen"/>ing Gods ſecret ones from Superſtition, are all accurately foretold in the <hi>Revelations.</hi> What were Miſteries once, are Hiſtories now, then propheſied, now performed. The <hi>Ro<g ref="char:EOLhyphen"/>miſh</hi> Church hath done us this courteſy to reveal the Reve<g ref="char:EOLhyphen"/>lation unto us. Her Corruptions are the beſt Comment on the <hi>Apocalyps.</hi>
+            </p>
+            <p>And though we muſt not deny, but that <hi>Popery</hi> flouriſh<g ref="char:EOLhyphen"/>eth even at this day, yet in abating the ſtrength thereof, <hi>God hath done great things,</hi> yea, <hi>he hath done great things already, whereof we rejoyce.</hi> Was it not a wonder that <hi>Luther</hi> a poor Fryar ſhould give the Man of Sin ſuch a foil (if not a fall) that ſince he could never recover himſelf. <hi>This is the work of the Lord, and it will ſeem marvelous in our Eyes:</hi> hereby <hi>An<g ref="char:EOLhyphen"/>tichriſt</hi> hath his wings cut, his train clipped, his talons pared, his ſtrength and wealth abated. So that the Pope hath juſt cauſe to make more Faſts, and fewer Feſtivals in his Ca<g ref="char:EOLhyphen"/>lander, many Countries are fallen from him; others faſtned to him, rather by Cruelty than Conſcience. So that in de<g ref="char:EOLhyphen"/>ſpight of all the Perfumes they burn in their Churches, their rotten Superſtition ſtinks in the noſtrils of diſcreet Chriſti<g ref="char:EOLhyphen"/>ans. What ſaid <hi>Zereſh</hi> to <hi>Haman</hi> her Husband, <hi>Eſther</hi> 6.13. <hi>If</hi> Mordecay <hi>be of the Seed of the</hi> Jews, <hi>before whom thou haſt begun to fall, thou ſhalt not prevail againſt him, but ſurely fall before him.</hi> And ſo ſeeing <hi>Antichriſt</hi> hath begun to reel, he will come to ruine: it remains then that we patiently ex<g ref="char:EOLhyphen"/>pect the time when <hi>the Lordſhall conſume him with the Spirit of his mouth</hi> (as welcome to us as woful to him) <hi>and ſhall deſtroy him with the brightneſs of his coming.</hi> For their Reli<g ref="char:EOLhyphen"/>gion,
+<pb n="13" facs="tcp:103462:7"/>I mean the dominative points wherein they differ from us, is a Religion of men. Of men deviſed, <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ound on Traditions, without footing in Scripture by men propoga<g ref="char:EOLhyphen"/>ted, I mean driven in the ſtrength of humane (not to ſay) diveliſh policy: their very Prayers to men directed (though glorifyed Saints in Heaven) and all theſe things for men intended, for the advancing of the pride and profit of the Pope and his Adherents: and therefore <hi>ſeeing their Counſel and work is of men, it will, it ſhall, it muſt in Gods due time come to nought.</hi>
+            </p>
+            <p>
+               <hi>
+                  <g ref="char:V">Ʋ</g>ſe.</hi> Do any then deſire to have their deſigns bleſt with Succeſs, let them truely entitle God to the Cauſe, let them lay the Foundation Stone in Grace, and then they ſhall lay the Top Stone in Glory. Now one may aſſure his Cauſe to be of God, and not of Men, if he obſerve theſe Rules.</p>
+            <p n="1">1. At the entrance into it, beg Gods Bleſſing and Aſſiſt<g ref="char:EOLhyphen"/>ance. When <hi>David</hi> 1. K. 36. had appointed <hi>Solomon</hi> to be King over <hi>Iſrael, Benaiah</hi> the Son of <hi>Jehoiada</hi> anſwered <hi>David</hi> and ſaid <hi>Amen, and the Lord God of my Lord ſay ſo too.</hi> Let us in the firſt place beg Gods Amen, to our Councels and Works; our Amen is but a Petition, Gods Amen is a Char<g ref="char:EOLhyphen"/>ter; ours is <hi>Optative,</hi> begging what we would have, Gods is <hi>Imparative,</hi> commanding what ſhall be.</p>
+            <p n="2">2. Beſure the thing thou takeſt in hand be lawful and warrantable in it ſelf; otherwiſe to deſire Gods Bleſſing to a wicked Deſign, is mockingly to ask God leave to diſ<g ref="char:EOLhyphen"/>honour him, or with <hi>Judas</hi> to cry <hi>Hail-Maſter,</hi> and then be<g ref="char:EOLhyphen"/>tray him.</p>
+            <p n="3">3. Be careful to manage the matter in hand by the Rule of Gods Will in his Word. See (ſayeth God to <hi>Moſes</hi>) <hi>that thou makeſt all things according to the Pattern in the Mount.</hi> So, be thou ſure not to differ the leaſt daſh, or wil<g ref="char:EOLhyphen"/>lingly to vary the leaſt tittle from Gods revealed Will in his
+<pb n="14" facs="tcp:103462:8"/>Word. Remember what St. <hi>James</hi> ſayeth Chap. 1.29. <hi>The wrath of man worketh not the Righteouſneſs of God,</hi> and therefore beware of mingling thy carnal Intereſt, of mixing thy partial ends, of blending thy private Reſpects with Gods Cauſe, leaſt it fare the worſe for ſo unfitting a Conjunction.</p>
+            <p n="4">4. Aim and level all thy Actions principally at the Glory of God. Thy own honour may in a refracted degree ſub<g ref="char:EOLhyphen"/>ſiſt with Gods Glory: if neither preferred before it, nor con<g ref="char:EOLhyphen"/>trariant to it, but ſubordinate unto it. At the Coronation of the Kings of <hi>England,</hi> when the Noblemen have firſt ſeen the Crown Imperial ſolely ſet upon his Majeſties head, then the Dukes, Marqueſſes, Earls, and Viſcounts claim by pre<g ref="char:EOLhyphen"/>ſcription to put on their own Coronets. Firſt advance the Honour of God, ſee him crowned, promote his Glory, and then in the ſecond place it will be no Sacriledg to ſeek the promotion of thy own private Good and particular Com<g ref="char:EOLhyphen"/>modity. If theſe Rules be warily obſerved, then whatſoever thy Deſign be, <hi>good luck have thou with thine Honour, ride on, go up and proſper, we wiſh you good Succeſs in the name of the Lord, the Lord proſper the work of thy hands, the Lord proſper thy handy work. If God be with you, who ſhall be againſt you.</hi>
+            </p>
+            <p>But be not diſheartned and diſmaid, be: not diſcouraged and diſcomfited if God at the firſt, and for a time humble thee with bad ſucceſs; know (as I ſaid before) that then God puniſheth thee for thy Sins, and take up for thy Motto the words of the Prophet (<hi>Mic.</hi> 7.9.) <hi>I will bear the Indig<g ref="char:EOLhyphen"/>nation of the Lord, becauſe I have ſinned againſt him, until he plead my Cauſe, and execute Judgment for me.</hi> Let not the bad<g ref="char:EOLhyphen"/>neſs of the Succeſs at the firſt put thee out of Love with a good Cauſe, but rather pray to God, It is thou Lord that in<g ref="char:EOLhyphen"/>flicts it, it is I that deſerve it, it comes from thy Juſtice, it lights on my Sins. Oh! Afflictions are bitter to the taſt, but wholſome to eat, wherefore beat Lord, and thy Servant
+<pb n="15" facs="tcp:103462:8"/>ſhall bow, ſtrike Lord, and thy Servant ſhall ſtoop. But Oh! ſpill the man, but ſpare the Cauſe, puniſh the one, but periſh not the other; the Sins are mine, but the Cauſe is thine. Let not thy Glory ſuffer in my Sufferings, but in due time give thy Cauſe good ſuceeſs: far be it from preſumptious duſt and aſhes to preſcribe to the Lord of Heaven time or place, or meanes, or manner. Do it Lord when thou wilt, where thou wilt, how thou wilt, and by whom thou wilt, but do it Lord in thy due time for thy Name-ſake, for thy Promiſe-ſake, for thy Sons ſake, for thy ſelf-ſake, <hi>wherefore ſhould the Wicked ſay, Where is now their God.</hi> All that is required of thee, is patient<g ref="char:EOLhyphen"/>ly to expect the good time when God will accompliſh his Promiſe. Seventimes did <hi>Elias</hi> ſend his Servant to the Sea, 1 <hi>Kin.</hi> 18.43. to bring ſome tidings of the probability of Rain, and at the ſeventh time, <hi>behold there aroſe out of the Sea a little Cloud like a mans hand;</hi> what ſhall I ſay ſeven times yea, ſeventy ſeven times, ſend and ſee for good ſucceſs; ſtand on the tiptoes of thy Soul, heighten thy expectation, watch and wait, and long and look, and pry and pray, to day and to morrow, and dext day, next week, next month, next year, next ſeven years, next ſeven ſeven years, if thy life laſts ſo long, and at laſt, if it be for Gods Glory, and thy good, the ſucceſs that ſhall come, will come, and will not tarry.</p>
+            <p>And yet I cannot confidently aſſure any that he in his own Perſon ſhall live to ſee good ſucceſs on every good Cauſe he ſhall undertake. Great was the favour afforded to good old <hi>Simeon,</hi> that he ſhould ſing his <hi>Nunc dimittis</hi> after his <hi>Eyes had ſeen Gods Salvation:</hi> but it is not granted to all Saints of God: ſome are taken out of this World before they ſee pi<g ref="char:EOLhyphen"/>ous Councels crowned with happineſs. And indeed the in<g ref="char:EOLhyphen"/>fidelity and carnal diſtruſt, whereof the beſt in ſome degree are guilty, may juſtly move God not to honour us with ſo
+<pb n="16" facs="tcp:103462:9"/>welcome a Spectacle: but ſuffer Death to prevent us, or elſe with that unbelieving Prince who dyed in the Gates of <hi>Samaria,</hi> our Eyes may ſee the plenty that our Mouths ſhall never taſt. However let us imitate the Example of the godly Patriarchs, of whom it is ſaid, <hi>Heb.</hi> 11.13. <hi>Theſe all dyed in the Faith, not having received the Promiſes, but having ſeen them afar off.</hi>
+            </p>
+            <p>Beſides, let that Cordial comfort us, that, That Honour God vonchfaſeth not to us, our Poſterity ſhall certainly poſſeſs.</p>
+            <p>Come then ye little Children, come ye that can of your ſelves, or elſe your be led by the hands of Maids, or brought in the Arms of your Nurſes; nay, come ye Babes unborn, that are carried in the Wombs (Bodies) of your Mothers. If the deſign we ſeek to ad<g ref="char:EOLhyphen"/>vance be good, there is good Succeſs due unto us by the Promiſe of God: and yet it is uncertain whether we our ſelves ſhall ever live to enjoy it: wherefore here, <hi>in the Name of God Amen,</hi> we make you our Heirs, we appoint you our <hi>Executors,</hi> and be<g ref="char:EOLhyphen"/>queath this Legacy unto you; or rather before hand by deed of Gift we Sign and Seal unto you all Joy, Comfort, Content<g ref="char:EOLhyphen"/>ment, Solace, Felicity and Happineſs, to you and to your Heirs, which ſhall amount from the good Succeſs of a good Cauſe, when you behold it: count it not amongſt deſperate Debts, for you ſhall infallibly enjoy it. We perchance ſhall firſt be gathered to our Fa<g ref="char:EOLhyphen"/>thers, and fall aſleep in our Graves, and be cloathed with Clay, and be turned to duſt, whilſt our Souls we hope ſhall be in Heaven; bleſſed the day, happy the hour, welcome the moment! But you ſhall ſurvive, and what <hi>Moſes</hi> never did, that <hi>Joſhnah</hi> ſhall behold. You ſhall ſee that that Cauſe which is grounded on Gods Word, managed by his Will, and levelled at his Honour, ſhall at laſt be Crowned with Succeſs: for Truth hath ſpoken it, and Faith be<g ref="char:EOLhyphen"/>lieves it, God hath ſaid it, we have heard it, and you ſhall ſee it. The Holy Cauſe will have happy Succeſs: what is gracious in the beginning, though croſt in the middle, will be crowned in the end<g ref="char:EOLhyphen"/>ing. <hi>For if this Councel or Work be of men, it will come to nought.</hi>
+            </p>
+            <q>Soli DEO Gloria.</q>
+            <pb facs="tcp:103462:9"/>
+         </div>
+      </body>
+   </text>
+</TEI>
